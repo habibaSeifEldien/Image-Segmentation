@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageSegmentation\\ImageSegmentation.csproj|c:\\users\\asus\\downloads\\[template] imagesegmentation (1)\\[template] imagesegmentation\\imagesegmentation\\segmenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageSegmentation\\ImageSegmentation.csproj|solutionrelative:imagesegmentation\\segmenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageSegmentation\\ImageSegmentation.csproj|C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\imagesegmentation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageSegmentation\\ImageSegmentation.csproj|solutionrelative:imagesegmentation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageSegmentation\\ImageSegmentation.csproj|C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\imagesegmentation\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageSegmentation\\ImageSegmentation.csproj|solutionrelative:imagesegmentation\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageSegmentation\\ImageSegmentation.csproj|C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\imagesegmentation\\dsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageSegmentation\\ImageSegmentation.csproj|solutionrelative:imagesegmentation\\dsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageSegmentation\\ImageSegmentation.csproj|C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\imagesegmentation\\imageoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageSegmentation\\ImageSegmentation.csproj|solutionrelative:imagesegmentation\\imageoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageSegmentation\\ImageSegmentation.csproj|C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\imagesegmentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageSegmentation\\ImageSegmentation.csproj|solutionrelative:imagesegmentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DSU.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\ImageSegmentation\\DSU.cs",
+              "RelativeDocumentMoniker": "ImageSegmentation\\DSU.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\ImageSegmentation\\DSU.cs",
+              "RelativeToolTip": "ImageSegmentation\\DSU.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:40:54.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Segmenter.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\ImageSegmentation\\Segmenter.cs",
+              "RelativeDocumentMoniker": "ImageSegmentation\\Segmenter.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\ImageSegmentation\\Segmenter.cs",
+              "RelativeToolTip": "ImageSegmentation\\Segmenter.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAQwBgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:36:05.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\ImageSegmentation\\MainForm.cs",
+              "RelativeDocumentMoniker": "ImageSegmentation\\MainForm.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\ImageSegmentation\\MainForm.cs",
+              "RelativeToolTip": "ImageSegmentation\\MainForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:13:14.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\ImageSegmentation\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ImageSegmentation\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\ImageSegmentation\\MainForm.Designer.cs",
+              "RelativeToolTip": "ImageSegmentation\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:51:28.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\ImageSegmentation\\Program.cs",
+              "RelativeDocumentMoniker": "ImageSegmentation\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\ImageSegmentation\\Program.cs",
+              "RelativeToolTip": "ImageSegmentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:52:25.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageOperations.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\ImageSegmentation\\ImageOperations.cs",
+              "RelativeDocumentMoniker": "ImageSegmentation\\ImageOperations.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\[TEMPLATE] ImageSegmentation (1)\\[TEMPLATE] ImageSegmentation\\ImageSegmentation\\ImageOperations.cs",
+              "RelativeToolTip": "ImageSegmentation\\ImageOperations.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:37:21.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
